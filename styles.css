@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#cccccc;
+	padding:0;
+	margin:0;
+}
+.player_one{
+	background-color:white;
+	width:95%;
+	border:1px solid grey;
+	border-radius:4px;
+	margin:auto;
+	padding:10px;
+}
+.player_two{
+	background-color:white;
+	width:48%;
+	border:1px solid grey;
+	margin:auto;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:10px;
+}
+h1,h3{
+	text-align:center;
+}
+a{
+	text-decoration:none;
+	color:grey;
+}
