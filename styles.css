@@ -21,10 +21,13 @@ body{
 	padding-right:10px;
 	padding-top:10px;
 }
-h1,h3{
+h1,h2{
 	text-align:center;
 }
 a{
 	text-decoration:none;
 	color:grey;
+}
+li{
+	list-style-type:none;
 }
